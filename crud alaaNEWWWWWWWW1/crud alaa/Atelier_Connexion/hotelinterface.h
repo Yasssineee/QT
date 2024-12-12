@@ -1,0 +1,4 @@
+#ifndef HOTELINTERFACE_H
+#define HOTELINTERFACE_H
+
+#endif // HOTELINTERFACE_H
