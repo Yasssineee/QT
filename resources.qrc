@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RCC>
+    <qresource prefix="/">
+        <file>translations/alimentaire_fr.qm</file>
+        <file>translations/alimentaire_ar.qm</file>
+    </qresource>
+</RCC>
